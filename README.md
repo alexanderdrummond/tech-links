@@ -29,7 +29,7 @@ A collection of all links and useful tools shared on Tech College GF2.
 
 |Name|Description|
 |--|--|
-|[CSS Scan](https://bulkresizephotos.com/en)| Conversion of images to .webp |
+|[CSS Scan](https://bulkresizephotos.com/en)| Licensed tool to view CSS |
 |[WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)| Font Grabber for Chrome |
 |[Smart Color Pallete](https://chrome.google.com/webstore/detail/smart-color-picker/ilifjbbjhbgkhgabebllmlcldfdgopfl)| "Eyedrop" tool for Chrome |
 
